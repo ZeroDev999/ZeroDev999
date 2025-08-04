@@ -1,4 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Apiwat Panpardap
+# Hi 👋 My name is Apiwat Panpardap
+
+**🎓 Student**  
+🌍 I'm based in **Thailand**  
+✉️ You can contact me at: [zero99dev@gmail.com](mailto:zero99dev@gmail.com)  
+🧠 I'm learning **Web Application Development**
+
 
 
 <p align="left">
